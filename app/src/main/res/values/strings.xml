@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PredictiveBackGesture</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">Next</string>
+    <string name="done">Done</string>
+    <string name="finish">Finish</string>
+    <string name="fragment_a">Fragment A</string>
+    <string name="fragment_b">Fragment B</string>
+    <string name="navigate_to_some_activity">Navigate to Some Activity</string>
+    <string name="navigate_to_fragment_b">Navigate to Fragment B</string>
+</resources>
